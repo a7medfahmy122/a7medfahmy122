@@ -3,7 +3,6 @@
 🎓 Computer Engineering Student | Aspiring Data Scientist  
 📊 Passionate about Data Science, Machine Learning & AI  
 🚀 Always learning, building, and exploring new technologies  
-
 ---
 
 ## 🔧 Skills & Tools
