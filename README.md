@@ -22,7 +22,6 @@
 ## 🚀 Current Focus
 - Machine Learning (Regression, Classification, Clustering)  
 - Data Visualization & Dashboards  
-- AI & Computer Vision Projects  
 
 ---
 
