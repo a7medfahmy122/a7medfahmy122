@@ -1,60 +1,44 @@
-</p>
+# Hi there 👋, I'm Ahmed Fahmy  
+
+🎓 Computer Engineering Student | Aspiring Data Scientist  
+📊 Passionate about Data Science, Machine Learning & AI  
+🚀 Always learning, building, and exploring new technologies  
 
 ---
 
-## 👋 About Me
-
-- 👨‍🎓 Hi, I’m **Adham Mahmoud**, a Data Science student at Alexandria University.  
-- 🔍 Passionate about exploring data, uncovering hidden relationships, and visualizing insights. 📈  
-- 🤖 Studying **AI, Machine Learning, SQL**, and self-learning **frontend development (JavaScript)**. 💻  
-- 🚀 Love building projects that make learning and personal growth easier. 💡
-
----
-
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2dhammahmoud&show_icons=true&theme=radical" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2dhammahmoud&layout=compact&theme=radical" width="45%"/>
-</p>
-
+## 🔧 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🔗 Find Me
+## 📈 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7medfahmy122&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medfahmy122&layout=compact&theme=radical)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adham-mahmoud-1o">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:adhamelmalhy6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://adham-mahmoud--rh4va1a.gamma.site/">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5C5C?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Adhamelmalhy/">
-    <img src="https://img.shields.io/badge/LeetCode-%2312100E?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
+---
 
+## 🚀 Current Focus
+- Machine Learning (Regression, Classification, Clustering)  
+- Data Visualization & Dashboards  
+- AI & Computer Vision Projects  
 
-## 📌 Pinned Repositories
+---
 
-<p align="center">
-  <a href="https://github.com/2dhammahmoud/crime_rate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2dhammahmoud&repo=crime_rate&theme=radical&description=false" />
-  </a>
-  <a href="https://github.com/2dhammahmoud/student_performance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2dhammahmoud&repo=student_performance&theme=radical&description=false" />
-  </a>
-  <a href="https://github.com/2dhammahmoud/Premier-League">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2dhammahmoud&repo=Premier-League&theme=radical&description=false" />
-  </a>
-</p>
+## 📂 Featured Projects
+- 🏥 Healthcare Predictive Analytics  
+- ✍️ Handwriting Recognition using ML  
+- 📊 Data Visualization Dashboards  
+
+---
+
+## 🌍 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-fahmy-aa135627a)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7medfahmy@gmail.com)  
