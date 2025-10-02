@@ -16,9 +16,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge&logoColor=white)
 
----
 
----
+
 
 ## 🚀 Current Focus
 - Machine Learning (Regression, Classification, Clustering)  
@@ -35,6 +34,5 @@
 ---
 
 ## 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-fahmy-aa135627a)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7medfahmy@gmail.com)  
