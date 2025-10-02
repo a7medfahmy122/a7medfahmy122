@@ -18,16 +18,9 @@
 
 ---
 
-## 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7medfahmy122&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medfahmy122&layout=compact&theme=radical)
-
----
-
 ## 🚀 Current Focus
 - Machine Learning (Regression, Classification, Clustering)  
 - Data Visualization & Dashboards  
-- AI & Computer Vision Projects  
 
 ---
 
@@ -40,5 +33,4 @@
 
 ## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-fahmy-aa135627a)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a7medfahmy@gmail.com)  
